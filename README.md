@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I'm [Ghodke Aditya Rao!](https://github.com/ghodkeadityarao/)
+## Hi there 👋 I'm [Ghodke Aditya Rao!](https://github.com/ghodkeadityarao/)
 
-## I'm a Computer Science Student at Bennett University
+### I'm a Computer Science Student at Bennett University
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
