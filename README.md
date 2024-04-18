@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 I'm [Ghodke Aditya Rao!](https://github.com/ghodkeadityarao/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ## I'm a Computer Science Student at Bennett University
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 👨‍💻 I’m currently working on Data Science, Software Development and Competitive Programming.
 - ❓ Ask me about anything related to Data Science and Software Development.
