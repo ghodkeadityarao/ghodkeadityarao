@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m currently working on Data Science, Software Development and Competitive Programming.
 - ❓ Ask me about anything related to Data Science and Software Development.
 - 📬 How to reach me: &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghodkeadityarao)
-- ☑️ Coding Platforms: &nbsp; [![Leetcode](https://img.shields.io/badge/leetcode-000000.svg?logo=leetcode&logoColor=#d16c06)](https://leetcode.com/ghodkeaditya) &nbsp; [![Coding Ninjas](https://img.shields.io/badge/coding%20ninjas-DD6620.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ghodkeaditya)
+- ☑️ Coding Platforms: &nbsp; [![Leetcode](https://img.shields.io/badge/leetcode-000000.svg?logo=leetcode&logoColor=#d16c06)](https://leetcode.com/ghodkeadityarao) &nbsp; [![Coding Ninjas](https://img.shields.io/badge/coding%20ninjas-DD6620.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ghodkeaditya)
 
 </br>
 
