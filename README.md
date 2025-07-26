@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 ## Hi there 👋 I'm [Ghodke Aditya Rao!](https://github.com/ghodkeadityarao/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=ghodkeadityarao)
 
 
-### I'm a Computer Science Student at Bennett University
+### I'm a Master's of Data Science Student at Texas A&M University
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- 👨‍💻 I’m currently working on Data Science, Software Development and Competitive Programming.
+- 👨‍💻 I’m currently working on Data Science, Machine Learning, Artificial Intelligence, Software Development and Competitive Programming.
 - ❓ Ask me about anything related to Data Science and Software Development.
 - 📬 How to reach me: &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghodkeadityarao)
 - ☑️ Coding Platforms: &nbsp; [![Leetcode](https://img.shields.io/badge/leetcode-000000.svg?logo=leetcode&logoColor=#d16c06)](https://leetcode.com/ghodkeadityarao) &nbsp; [![Coding Ninjas](https://img.shields.io/badge/coding%20ninjas-DD6620.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ghodkeaditya)
@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 </br>
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghodkeadityarao)  &nbsp; [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ghodkeadityarao) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghodkeadityarao)  &nbsp; 
+<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ghodkeadityarao) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
