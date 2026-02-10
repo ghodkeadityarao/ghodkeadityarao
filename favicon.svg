@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="A9 favicon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#00f5ff"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#00f5ff" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Background rounded square -->
+  <rect width="64" height="64" rx="12" fill="#0a0e27"/>
+  <circle cx="32" cy="32" r="26" fill="url(#g)" opacity="0.12" filter="url(#shadow)"/>
+
+  <!-- Initials 'A9' centered -->
+  <text x="50%" y="56%" text-anchor="middle" font-family="Orbitron, Arial, sans-serif" font-weight="800" font-size="26" fill="url(#g)" letter-spacing="-1">A9</text>
+
+  <!-- Simple AI/circuit accents -->
+  <g fill="#a855f7" opacity="0.95">
+    <circle cx="18" cy="14" r="1.6"/>
+    <circle cx="46" cy="18" r="1.6"/>
+    <path d="M18 14 L30 22" stroke="#a855f7" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+    <path d="M46 18 L34 38" stroke="#a855f7" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
